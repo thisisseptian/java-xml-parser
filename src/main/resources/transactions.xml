@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="transactions.xsd">
+    <transaction>
+        <id>1</id>
+        <amount>100.50</amount>
+    </transaction>
+    <transaction>
+        <id>2</id>
+        <amount>200.75</amount>
+    </transaction>
+    <transaction>
+        <id>3</id>
+        <amount>300.00</amount>
+    </transaction>
+    <transaction>
+        <id>4</id>
+        <amount>400.25</amount>
+    </transaction>
+    <transaction>
+        <id>5</id>
+        <amount>500.10</amount>
+    </transaction>
+</transactions>
